@@ -49,9 +49,6 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 3. **Update LaTeX Distribution**: Open the MiKTeX console and click on "Check for updates" and "Update now".
 
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/2f36ac02-8127-48c6-8ee3-2ca214c85143)
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/f6e357a3-22de-46b5-8f00-66333951cb16)
-
 4. **Download IEEE Manuscript Templates**: Obtain the Manuscript Templates for Conference Proceedings from the [Official IEEE website](https://www.ieee.org/conferences/publishing/templates.html).
 
    ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/ba324800-e578-4a4b-9736-68777b1238da)
