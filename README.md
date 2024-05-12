@@ -67,7 +67,7 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/668b6df9-8c06-45be-b041-5c71ebc78c9d)
 
-## Supporting Material
+## 📘 Supporting Resources
 
 ### Recommended Workflow
 
