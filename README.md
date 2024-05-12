@@ -15,9 +15,9 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 ![latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)![Overleaf](https://img.shields.io/badge/-Overleaf-000?&logo=Overleaf)![Git](https://img.shields.io/badge/-Git-000?&logo=Git)![Mendeley](https://img.shields.io/badge/-Mendeley-000?&logo=Mendeley)![VSCode](https://img.shields.io/badge/-visualstudiocode-000?&logo=visualstudiocode)![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
 
-## 💻 Setup Guide
+## 🛠️ Setup Guide
 
-### Online
+### 🌐 Online
 
 1. **Visit Overleaf Website**: Go to the official [Overleaf website](https://www.overleaf.com/) and register for an account using any of the available methods.
 
@@ -40,7 +40,7 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
    ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/de9357b9-df5c-4141-aedc-a86b7cc1b553)
 
-### Local Installation
+### 💻 Local Installation
 
 1. **Download LaTeX Distribution**: Choose a LaTeX distribution such as [TeX Live](https://www.tug.org/texlive/) or [MiKTeX](https://miktex.org/download). It's recommended to use MiKTeX for its minimal installation and ongoing updates.
 
