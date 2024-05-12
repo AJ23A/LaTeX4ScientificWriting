@@ -12,5 +12,5 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 <h3 align="left">💻 Built with: </h3>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas) ![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly) ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
+![latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)![Git](https://img.shields.io/badge/-Git-000?&logo=Git)![Mendeley](https://img.shields.io/badge/-Mendeley-000?&logo=Mendeley)![Overleaf](https://img.shields.io/badge/-Overleaf-000?&logo=Overleaf)![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
 
