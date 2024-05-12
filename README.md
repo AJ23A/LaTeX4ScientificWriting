@@ -65,7 +65,8 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 7. **Build LaTeX Project**: Open the IEEE Template folder in VS Code and build the project.
 
-  ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/13450bff-7fab-473f-8858-e9067a5de7fd)
+  ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/668b6df9-8c06-45be-b041-5c71ebc78c9d)
+
 
 
 8. **Useful Shortcuts and Tips**:
