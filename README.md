@@ -107,8 +107,8 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 ## 📝 My LaTeX Projects
 - Thesis: [PDF](https://rd.udb.edu.sv/items/750ac3d3-83eb-4eaa-9ee7-13663b996505), [Github](https://github.com/AJ23A/Thesis-Design-and-Simulation-of-a-COTS-Based-Electrical-Power-System-for-HABs).
 - CV: [PDF](https://github.com/AJ23A/AJ23A/blob/master/ResearcherCV.pdf).
-- CONESCAPAN XL: [Poster]().
+- CONESCAPAN XL: [Poster](./Projects/CONESCAPANXL_Poster_EPS.pdf).
 - CONCAPAN XLI: [Paper](https://ieeexplore.ieee.org/document/10517562)
-- CEC2023: [Presentation]().
+- CEC2023: [Presentation](./Projects/Presentation_EPS_CEC2023.pdf).
 
 
