@@ -92,6 +92,8 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
   
 - **Incorporate Citations**: Include citations and generate the bibliography using a .bib file exported from your reference manager.
 
+### Cheat Sheet: [PDF](https://wch.github.io/latexsheet/latexsheet.pdf) 
+
 ### Support Courses
 
 - [Coursera 1](https://www.coursera.org/projects/bases-latex)
