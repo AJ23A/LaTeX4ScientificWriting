@@ -12,7 +12,8 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 1. **Visit Overleaf Website**: Go to the official [Overleaf website](https://www.overleaf.com/) and register for an account using any of the available methods.
 
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/d4835c68-1d25-438a-b656-27ef533b86f5)
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/23cc8629-751e-4e04-bfb6-6c545fa82220)
+
 
 2. **Select a Template**: Instead of starting a blank project, navigate to the "Templates" section.
 
