@@ -49,7 +49,7 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 3. **Update LaTeX Distribution**: Open the MiKTeX console and click on "Check for updates" and "Update now".
 
-4. **Download IEEE Manuscript Templates**: Obtain the Manuscript Templates for Conference Proceedings from the [Official IEEE website](https://www.ieee.org/conferences/publishing/templates.html).
+4. **Download IEEE Manuscript Templates**: Obtain the Manuscript Templates (ZIP file) for Conference Proceedings from the [Official IEEE website](https://www.ieee.org/conferences/publishing/templates.html).
 
    ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/01f3c375-61f1-4bfe-80d4-6d4ea550de21)
 
@@ -65,9 +65,8 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 7. **Build LaTeX Project**: Open the IEEE Template folder in VS Code and build the project.
 
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/e8d457e7-76bd-4d1f-9d9c-ce4881d50901)
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/6b606297-2d5a-4543-9c74-b01220e8ddef)
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/7857ecd8-7eed-49f9-b026-551995d791db)
+  ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/13450bff-7fab-473f-8858-e9067a5de7fd)
+
 
 8. **Useful Shortcuts and Tips**:
    - Save changes with CTRL + S to trigger automatic project building.
