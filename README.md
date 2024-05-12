@@ -53,7 +53,7 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
    ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/01f3c375-61f1-4bfe-80d4-6d4ea550de21)
 
-5. **Configure VS Code with LaTeX Workshop**: Install VS Code on your computer and then install the LaTeX Workshop extension.
+5. **Configure VS Code with LaTeX Workshop**: Install [VS Code](https://code.visualstudio.com/download) on your computer and then install the LaTeX Workshop extension.
 
      ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/7aafc3ba-3860-4aec-bcd4-dca5763685ce)
 
