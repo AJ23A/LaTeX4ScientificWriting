@@ -51,13 +51,12 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 4. **Download IEEE Manuscript Templates**: Obtain the Manuscript Templates for Conference Proceedings from the [Official IEEE website](https://www.ieee.org/conferences/publishing/templates.html).
 
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/ba324800-e578-4a4b-9736-68777b1238da)
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/01f3c375-61f1-4bfe-80d4-6d4ea550de21)
 
 5. **Configure VS Code with LaTeX Workshop**: Install VS Code on your computer and then install the LaTeX Workshop extension.
 
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/dae2d898-e58f-4ae6-9db4-65d2f5310891)
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/de1739c3-489f-4e94-86f7-4d3826f7e3c6)
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/f56d85f0-e149-4b99-8487-ee87f8e99631)
+     ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/7aafc3ba-3860-4aec-bcd4-dca5763685ce)
+
 
 6. **Install Strawberry Perl**: Download and install Strawberry Perl from [here](https://strawberryperl.com/).
 
