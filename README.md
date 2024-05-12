@@ -4,7 +4,7 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 <h3 align="left"> Built with: </h3>
 
-![latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)![strawberrypearl](https://img.shields.io/badge/-strawberrypearl-000?&logo=strawberrypearl)![miktex](https://img.shields.io/badge/-miktex-000?&logo=miktex)![Overleaf](https://img.shields.io/badge/-Overleaf-000?&logo=Overleaf)![Git](https://img.shields.io/badge/-Git-000?&logo=Git)![Mendeley](https://img.shields.io/badge/-Mendeley-000?&logo=Mendeley)![VSCode](https://img.shields.io/badge/-visualstudiocode-000?&logo=visualstudiocode)![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
+![latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)![StrawberryPearl](https://img.shields.io/badge/-strawberrypearl-000?&logo=strawberrypearl)![MiKTeX](https://img.shields.io/badge/-miktex-000?&logo=miktex)![Overleaf](https://img.shields.io/badge/-Overleaf-000?&logo=Overleaf)![Git](https://img.shields.io/badge/-Git-000?&logo=Git)![Mendeley](https://img.shields.io/badge/-Mendeley-000?&logo=Mendeley)![VSCode](https://img.shields.io/badge/-visualstudiocode-000?&logo=visualstudiocode)![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
 
 ## 🛠️ Setup Guide
 
