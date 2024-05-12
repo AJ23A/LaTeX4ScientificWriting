@@ -67,6 +67,42 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/668b6df9-8c06-45be-b041-5c71ebc78c9d)
 
+## Supporting Material
+
+### Recommended Workflow
+
+- **Learn LaTeX Basics**: Start with courses and Overleaf documentation to grasp the fundamentals of LaTeX.
+  
+- **Define Your Paper**: Clearly outline your paper's topic, purpose, methodology, etc.
+  
+- **Manage References**: Utilize reference managers like Zotero or Mendeley to organize notes from relevant papers.
+  
+- **Draft in Text Editor**: Begin drafting your paper in your preferred text editor to establish its structure.
+  
+- **Transition to LaTeX**: Once you've solidified your paper's structure, efficiently transfer it to LaTeX for formatting.
+  
+- **Leverage Productivity Tools**: Utilize LaTeX table websites, ChatGPT, and other tools to streamline the writing process.
+  
+- **Incorporate Citations**: Include citations and generate the bibliography using a .bib file exported from your reference manager.
+
+### Support Courses
+
+- [Bases y Primeros Pasos](https://www.coursera.org/projects/bases-latex)
+- [Artículos científicos](https://www.coursera.org/projects/articulo-cientifico-latex)
+- [CV](https://www.coursera.org/projects/curriculum-profesional-latex)
+
+### Support Videos
+
+- [Configuración local](https://www.youtube.com/watch?v=4lyHIQl4VM8&t=1s)
+- [Uso básico de Mendeley](https://www.youtube.com/watch?v=OzFHGFnAM2Q)
+- [Uso de Github Desktop](https://www.youtube.com/watch?v=MaqVvXv6zrU)
+
+### My Projects
+
+- Thesis
+- CV
+- Presentation
+- Paper
 
 
 8. **Useful Shortcuts and Tips**:
