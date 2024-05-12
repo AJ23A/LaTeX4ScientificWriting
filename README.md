@@ -35,8 +35,4 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 ## Contributing
 
-If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+If you'd like to contribute to this documentation, please fork the repository and submit a pull request.
