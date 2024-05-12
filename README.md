@@ -3,13 +3,6 @@
 LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online and offline, along with tools for efficient paper development in professional settings.
 
 <h3 align="left">Author: Josue Aldana-Aguilar </h3>
-<p align="left">
-
-# 🛰️ About Me 🔭:
-
-- 📃 [My resume](https://github.com/AJ23A/AJ23A/blob/master/ResearcherCV.pdf)
-
-- 📫 How to reach me **jaldana.aguilar@ieee.org**
 
 <h3 align="left"> Built with: </h3>
 
