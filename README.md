@@ -17,20 +17,24 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 2. **Select a Template**: Instead of starting a blank project, navigate to the "Templates" section.
 
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/15729327-bf93-4591-8e76-0ce00795eee5)
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/7b16af5a-5c1f-4570-8c94-0340374d5a69)
+
 
 3. **Choose IEEE Conference Template**: Explore the templates available for presentations, conference papers, journals, CVs, theses, etc., and select the IEEE conference template.
 
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/1cd2d8d1-a518-4015-85eb-5eb5cec43803)
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/d3ddf6c2-b40b-476f-9406-285480aab4e8)
+
 
 4. **Open as a Template**: Click on "Open as a template" to start working on your project.
 
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/d8d23918-e01b-4b68-a3d7-c0720e45bdb9)
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/837faab1-6a70-4af6-9acd-f8d2cfb4bc0c)
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/ba52260a-9210-449d-9845-4d5f36a63927)
+
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/b7199cf9-d1d8-4b7d-bbbd-fa719b935871)
+
 
 5. **Collaborate**: Overleaf allows collaborative work. You can easily add collaborators to your project by inviting them via email.
 
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/de9357b9-df5c-4141-aedc-a86b7cc1b553)
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/3300435e-494e-49b7-a8a9-4f40becaabde)
 
 ### 💻 Local Installation
 
