@@ -67,6 +67,13 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/668b6df9-8c06-45be-b041-5c71ebc78c9d)
 
+  
+8. **Useful Shortcuts and Tips**:
+   - Save changes with CTRL + S to trigger automatic project building.
+   - Consider using this method for projects with long compilation times to avoid timeout restrictions on online platforms like Overleaf.
+   - Maintain project versions with a GitHub repository for collaboration and version control.
+
+
 ## 📘 Supporting Resources
 
 ### Recommended Workflow
@@ -87,26 +94,21 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 ### Support Courses
 
-- [Bases y Primeros Pasos](https://www.coursera.org/projects/bases-latex)
-- [Artículos científicos](https://www.coursera.org/projects/articulo-cientifico-latex)
-- [CV](https://www.coursera.org/projects/curriculum-profesional-latex)
+- [Coursera 1](https://www.coursera.org/projects/bases-latex)
+- [Coursera 2](https://www.coursera.org/projects/articulo-cientifico-latex)
+- [Coursera 3](https://www.coursera.org/projects/curriculum-profesional-latex)
 
 ### Support Videos
 
-- [Configuración local](https://www.youtube.com/watch?v=4lyHIQl4VM8&t=1s)
-- [Uso básico de Mendeley](https://www.youtube.com/watch?v=OzFHGFnAM2Q)
-- [Uso de Github Desktop](https://www.youtube.com/watch?v=MaqVvXv6zrU)
+- [Mendeley](https://www.youtube.com/watch?v=OzFHGFnAM2Q)
+- [Github Desktop](https://www.youtube.com/watch?v=MaqVvXv6zrU)
+- [VS Code](https://www.youtube.com/watch?v=B-s71n0dHUk).
 
-### My Projects
+### 📝 My LaTeX Projects
+- Thesis: [PDF](https://rd.udb.edu.sv/items/750ac3d3-83eb-4eaa-9ee7-13663b996505), [Github](https://github.com/AJ23A/Thesis-Design-and-Simulation-of-a-COTS-Based-Electrical-Power-System-for-HABs).
+- CV: [PDF](https://github.com/AJ23A/AJ23A/blob/master/ResearcherCV.pdf).
+- CONESCAPAN XL: [Poster]().
+- CONCAPAN XLI: [Paper](https://ieeexplore.ieee.org/document/10517562)
+- CEC2023: [Presentation]().
 
-- Thesis
-- CV
-- Presentation
-- Paper
-
-
-8. **Useful Shortcuts and Tips**:
-   - Save changes with CTRL + S to trigger automatic project building.
-   - Consider using this method for projects with long compilation times to avoid timeout restrictions on online platforms like Overleaf.
-   - Maintain project versions with a GitHub repository for collaboration and version control.
 
