@@ -17,6 +17,29 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 ## 💻 Setup Guide
 
+### Online
+
+1. **Visit Overleaf Website**: Go to the official [Overleaf website](https://www.overleaf.com/) and register for an account using any of the available methods.
+
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/d4835c68-1d25-438a-b656-27ef533b86f5)
+
+2. **Select a Template**: Instead of starting a blank project, navigate to the "Templates" section.
+
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/15729327-bf93-4591-8e76-0ce00795eee5)
+
+3. **Choose IEEE Conference Template**: Explore the templates available for presentations, conference papers, journals, CVs, theses, etc., and select the IEEE conference template.
+
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/1cd2d8d1-a518-4015-85eb-5eb5cec43803)
+
+4. **Open as a Template**: Click on "Open as a template" to start working on your project.
+
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/d8d23918-e01b-4b68-a3d7-c0720e45bdb9)
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/837faab1-6a70-4af6-9acd-f8d2cfb4bc0c)
+
+5. **Collaborate**: Overleaf allows collaborative work. You can easily add collaborators to your project by inviting them via email.
+
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/de9357b9-df5c-4141-aedc-a86b7cc1b553)
+
 ### Local Installation
 
 1. **Download LaTeX Distribution**: Choose a LaTeX distribution such as [TeX Live](https://www.tug.org/texlive/) or [MiKTeX](https://miktex.org/download). It's recommended to use MiKTeX for its minimal installation and ongoing updates.
