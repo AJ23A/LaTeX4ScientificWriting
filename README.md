@@ -15,7 +15,7 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 ![latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)![Overleaf](https://img.shields.io/badge/-Overleaf-000?&logo=Overleaf)![Git](https://img.shields.io/badge/-Git-000?&logo=Git)![Mendeley](https://img.shields.io/badge/-Mendeley-000?&logo=Mendeley)![VSCode](https://img.shields.io/badge/-visualstudiocode-000?&logo=visualstudiocode)![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
 
-## Installation Guide
+## 💻Installation Guide
 
 ### Local Installation
 
