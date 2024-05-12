@@ -1,4 +1,4 @@
-# LaTeX4ScientificWriting
+# ![latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex) LaTeX4ScientificWriting
 
 LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online and offline, along with tools for efficient paper development in professional settings.
 
@@ -102,9 +102,9 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 - [Mendeley](https://www.youtube.com/watch?v=OzFHGFnAM2Q)
 - [Github Desktop](https://www.youtube.com/watch?v=MaqVvXv6zrU)
-- [VS Code](https://www.youtube.com/watch?v=B-s71n0dHUk).
+- [VS Code](https://www.youtube.com/watch?v=B-s71n0dHUk)
 
-### 📝 My LaTeX Projects
+## 📝 My LaTeX Projects
 - Thesis: [PDF](https://rd.udb.edu.sv/items/750ac3d3-83eb-4eaa-9ee7-13663b996505), [Github](https://github.com/AJ23A/Thesis-Design-and-Simulation-of-a-COTS-Based-Electrical-Power-System-for-HABs).
 - CV: [PDF](https://github.com/AJ23A/AJ23A/blob/master/ResearcherCV.pdf).
 - CONESCAPAN XL: [Poster]().
