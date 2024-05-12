@@ -60,7 +60,8 @@ LaTeX4ScientificWriting provides LaTeX resources for scientific writing, online 
 
 6. **Install Strawberry Perl**: Download and install Strawberry Perl from [here](https://strawberryperl.com/).
 
-   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/9b333f38-6498-48e6-ba74-a8fdef4a93dd)
+   ![image](https://github.com/AJ23A/LaTeX4ScientificWriting/assets/108604372/c849d366-cddd-4397-b14b-f76bffb3c701)
+
 
 7. **Build LaTeX Project**: Open the IEEE Template folder in VS Code and build the project.
 
